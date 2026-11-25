@@ -1,5 +1,11 @@
 # Simmer & Serve — Rush Hour Kitchen
 
+[![make.fun · best-cooking-game-20261125-0137](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![rank](https://make.fun/badge/best-cooking-game-20261125-0137/exrazor01-creator/best-cooking-game-20261125-0137/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/exrazor01-creator/best-cooking-game-20261125-0137/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+
+Built for the [make.fun best-cooking-game bounty](https://make.fun/bounty/best-cooking-game-20261125-0137).
+
 **Simmer & Serve** is an original rush-hour cooking game. You are the only chef
 on shift in a small kitchen: orders land on the board with a patience timer,
 and you have 2 minutes 30 seconds to serve as many as you can before the shift
